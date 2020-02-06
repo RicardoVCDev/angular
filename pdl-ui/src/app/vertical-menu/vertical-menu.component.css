@@ -1,0 +1,32 @@
+/*
+*
+* ==========================================
+* CUSTOM UTIL CLASSES
+* ==========================================
+*
+*/
+
+.vertical-nav {
+  min-width: 15rem;
+  width: 15rem;
+  height: 100vh;
+  position: fixed;
+  top: 1;
+  left: 0;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1);
+  transition: all 0.4s;
+  background-color: white
+  /* rgb(174, 196, 240); */
+}
+
+/* .text-gray {
+  color: white;
+} */
+
+.nav-item {
+  background-color: white
+}
+
+.nav-item-home {
+  background-color: #1976d2;
+}
